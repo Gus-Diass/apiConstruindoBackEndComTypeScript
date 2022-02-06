@@ -1,0 +1,22 @@
+{
+  "name": "apiconstruindobackendcomtypescript",
+  "version": "1.0.0",
+  "description": "API usando TS onde aprendi orientação a objetos e tipografia, nessa API podemos cadastrar um produto que recebe uma herança dependendo de sua categoria. Ps. utilizei banco de dados fake.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gus-Diass/apiConstruindoBackEndComTypeScript.git"
+  },
+  "author": "Gustavo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gus-Diass/apiConstruindoBackEndComTypeScript/issues"
+  },
+  "homepage": "https://github.com/Gus-Diass/apiConstruindoBackEndComTypeScript#readme",
+  "dependencies": {
+    "typescript": "^4.5.5"
+  }
+}
